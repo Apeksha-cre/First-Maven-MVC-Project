@@ -1,0 +1,25 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Tomcat: firstmavenproject" type="com.poratu.idea.plugins.tomcat">
+    <log_file alias="Tomcat Catalina Log" path="$USER_HOME$/.SmartTomcat/firstmavenproject/firstmavenproject/logs/catalina.*" />
+    <log_file alias="Tomcat Manager Log" path="$USER_HOME$/.SmartTomcat/firstmavenproject/firstmavenproject/logs/manager.*" />
+    <log_file alias="Tomcat Host Manager Log" path="$USER_HOME$/.SmartTomcat/firstmavenproject/firstmavenproject/logs/host-manager.*" />
+    <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+    <predefined_log_file enabled="true" id="Tomcat Access Log" />
+    <option name="contextPath" value="/firstmavenproject" />
+    <option name="docBase" value="C:\Users\apeks\eclipse-workspace\firstmavenproject\src\main" />
+    <option name="envOptions">
+      <map />
+    </option>
+    <option name="tomcatInfo">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/10.0.27" />
+        <option name="path" value="$PROJECT_DIR$/../../../../Program Files/Apache Software Foundation/Tomcat 10.0" />
+        <option name="version" value="10.0.27.0" />
+      </TomcatInfo>
+    </option>
+    <option name="vmOptions" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
